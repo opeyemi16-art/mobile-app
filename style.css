@@ -127,7 +127,7 @@ footer li {
   }
   .list-btn {
     display: block;
-    justify-self: center;
+    /* justify-self: center; */
     margin-bottom: 7%;
   }
   .section1 h1 {
@@ -140,10 +140,10 @@ footer li {
   }
   .section1 button {
     margin-bottom: 3%;
-    justify-self: center;
+    /* justify-self: center; */
   }
   .our-process .card {
-    justify-self: center !important;
+    /* justify-self: center !important; */
   }
   .process-sec {
     margin-bottom: 20% !important;
@@ -157,13 +157,13 @@ footer li {
     display: none;
   }
   .unit-section {
-    justify-content: start !important;
+    /* justify-content: start !important; */
   }
   .unit-section p {
     font-size: 105% !important;
   }
   .unit-section button {
-    justify-self: start;
+    /* justify-self: start; */
     margin-bottom: 15%;
   }
   .unit-section .row h2 {
@@ -178,7 +178,7 @@ footer li {
     margin-top: 5%;
   }
   .review h5 {
-    font-size: 170% !important;
+    font-size: 155% !important;
     font-weight: 700 !important;
     color: #24324d;
     margin-bottom: 8% !important;
@@ -194,11 +194,11 @@ footer li {
   }
   .ask-us a {
     display: block;
-    justify-self: center;
+    /* justify-self: center; */
   }
   .ask-us {
     margin: 3%;
-    font-size: 100% !important;
+    font-size: 90% !important;
   }
   footer .footer-images img {
     width: 20% !important;
@@ -224,7 +224,7 @@ footer li {
   }
   nav .list-btn {
     display: block;
-    justify-self: center;
+    /* justify-self: center; */
     margin: 7% 0%;
   }
   .navbar-nav {
@@ -239,11 +239,11 @@ footer li {
   }
   .our-process {
     /* white-space: nowrap; */
-    display: block;
-    justify-self: center;
+    /* display: block; */
+    /* justify-self: center; */
   }
   .our-process .card {
-    margin-bottom: 40% !important;
+    /* margin-bottom: 40% !important; */
   }
   .each-unit {
     padding: 10% 0%;
